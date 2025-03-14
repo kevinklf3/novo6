@@ -1,0 +1,11 @@
+body {
+    background: linear-gradient(120deg, #fc0);
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+
+    border: 2px solid red;
+    margin: 10px;
+}
